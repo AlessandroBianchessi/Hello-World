@@ -1,4 +1,4 @@
 # Hello-World
-Just exploring
 
+Hi humans!
 Alessandro writing here. I love playing golf and hang out with my friends.
